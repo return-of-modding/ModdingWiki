@@ -1,4 +1,4 @@
-# Welcome to the Risk of Rain Returns Modding Wiki !
+# Welcome to the Risk of Rain Returns Modding Wiki
 
 https://return-of-modding.github.io/ModdingWiki
 
