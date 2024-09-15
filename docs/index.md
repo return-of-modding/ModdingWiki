@@ -1,4 +1,4 @@
-# Welcome to the Risk of Rain Returns Modding Wiki !
+# Welcome to the Risk of Rain Returns Modding Wiki!
 
 This place serves as a center for guides related to Risk of Rain Returns Modding.
 
