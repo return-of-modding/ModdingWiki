@@ -1,3 +1,5 @@
+**This is very outdated, and RoRR Modding Toolkit should be used instead, but the list of item objects inside may still be useful.**
+
 [items.zip](https://github.com/return-of-modding/ModdingWiki/files/14551142/items.zip)
 
 A neatly organized collection of all vanilla items in gm.constants.  
