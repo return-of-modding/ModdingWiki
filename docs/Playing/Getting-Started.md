@@ -10,12 +10,18 @@ If you still have an issue after following this guide, feel free to ask for supp
 
 - Run the game at least once, to make sure steam generates the wineprefix. Doesn't have to fully launch or anything, steam just has to try launching the executable.
 
-- Put the version.dll in the game files or use r2modman. This is done in the same way as you would on Windows.
+- Steam Deck Only: Be in desktop mode and maybe find a keyboard and mouse.
 
-- Get `protontricks` on your system, and run `protontricks 1337520 dxvk`. Alternatively, if you know how to, run `winetricks dxvk` after setting it up to use the correct `wineprefix`.
+- Download the latest r2modman app image from this [link](https://github.com/ebkr/r2modmanPlus/releases/)
+
+- Select RORR and download the mods you like.
 
 - Set the launch options to `WINEDLLOVERRIDES="version=n,b" %command%`
 
 ![image](https://github.com/user-attachments/assets/c4fa39a9-96b8-492c-a0c5-c85b7d35c1f3)
 
-- If the game doesn't launch after specifying the launch option, it might help to go into the game's properties and force it to use Proton Experimental in the compatibility tab.
+- You can also add the launch option in r2modman to open the modded game directly from steam right after.
+
+- Go into the steam game's properties and force it to use Proton Experimental in the compatibility tab. (you can find out steps for that [here](https://www.rockpapershotgun.com/how-to-install-proton-ge-on-the-steam-deck))
+
+- You should be able to open the game from either r2modman or directly from RORR if you included those launch options after the `WINEDLLOVERRIDES`.
