@@ -2,6 +2,20 @@
 
 If you still have an issue after following this guide, feel free to ask for support in the [Return of Modding Discord](https://discord.gg/VjS57cszMq).
 
+## Compatible Mod Managers
+
+All "major" thunderstore mod managers should work with Risk of Rain Returns:
+
+- r2modman (v3.1.50 and above only!)
+
+- Gale Mod Manager (v1.2.1 and above only!)
+
+- Thunderstore Mod Manager
+
+## Some mods doesn't work after an update
+
+- The modding toolkit and the mod loader itself are still in beta, there may be breaking changes and older mods may not work after either update, sorry!
+
 ## Using r2modman on Windows
 
 [This](https://lethal.wiki/installation/installing-r2modman) is a guide made for Lethal Company but it’s pretty good so just pretend it’s for RoRR.
